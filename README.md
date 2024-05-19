@@ -7,6 +7,7 @@ Before running the PALACE, you have to fix some of the details here:
 Step (0): please make sure you have installed all of packages in need at the beginng of: MDAnalysis, torch, shutil......................
 
 Step (1): You should put the topology file and trajectory file in a fold, and write the pathway of your fold in line 12, write the file name of your top and trajectory in line 20. 
+          (Here using the MDAnalysis, fit to the Amber, Gromacs, CHARMM..............as: https://docs.mdanalysis.org/stable/index.html) 
 
 Step (2): You have to know how many frames are in your trajectory, and change the lines 27, 32, and 55. In the pilot test, there are 10000 frames total. 
 
