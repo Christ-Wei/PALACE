@@ -16,3 +16,6 @@ Step (3): Select the pocket area, which would be aligned in line 81 and 88, from
 Step (4): Stop here and check the aligned pdb, select which atoms you want to use for the clustering, and put the atoms' lines into the script in the line 113 and 114. 
 
 Step (5): How many clusters you want to get?: Line 237,  "k_range = range(2, 31)" means from 2 to 31, including 2 and not including 31, you can change it into your number. 
+
+
+Please Cite: [1] Chuancheng Wei, Choon Han Heh, & Sek Peng Chin *. Pocket-Aligned Ligand Absolute Conformations Clustering (PALACE): A Relative Position Ligand Conformational Analysis for Molecular Dynamics Simulations. International Conference on Drug Design and Discovery (IC3D); 2024 May 13-14; Penang, Malaysia.
